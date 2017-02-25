@@ -1,17 +1,17 @@
 ---
-title: IT Scratch lesson blog
+title: scratch blog 4
 layout: post
 author: samuel.sinclair
 permalink: /blog-outline/
-source-id: 1asMyu1-Kmn7Mwk0D4peGLfjBzauDFYQWn62pZrJiL8I
+source-id: 16_3L-LuvDeMDhhU6Ms1py0vE1x-BcKQDNnoo4VO-Qyk
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>IT scratch lesson blog</td>
-    <td>Date</td>
-    <td>2/12/16</td>
+    <td>Scratch lesson blog 8</td>
+    <td>Date </td>
+    <td>25/02/17</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>No scratch account and no work</td>
+    <td>A nearly finished game</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To set up my account and start my maze game</td>
+    <td>Review other people's games.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, I setup my account and started working on my game</td>
+    <td>I don't know yet.</td>
   </tr>
 </table>
 
@@ -41,20 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>
- It helped that I had some experience with scratch but I payed attention when putting in the code.</td>
+    <td>We didn't really learn anything because we were assessing each other's games.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to get the tasks done a bit faster and something that will help me with that is, instead of putting in each bit of code I need to duplicate pieces of code in order to work quicker.</td>
+    <td>I need to try and fix any code that doesn’t work or at least try to fix them as i can’t do anything if scratch isn’t working which was happening most of the last two lessons.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I am going to: 1. Use the duplicate icon more, 2. Work quickly and efficiently, and 3. Play around with scratch and have fun!</td>
+    <td>Next time I need to adjust my code to make my donkey not be able to go through walls.</td>
   </tr>
 </table>
 
