@@ -1,5 +1,6 @@
 ---
-title: Untitled document
+title: Media lesson blog
+
 layout: post
 author: samuel.sinclair
 permalink: /untitled-document/
