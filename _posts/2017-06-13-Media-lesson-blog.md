@@ -3,7 +3,7 @@ title: Media lesson blog
 layout: post
 author: samuel.sinclair
 permalink: /media-lesson-blog/
-source-id: 1m5jIC34QrxZRDXVRUEmyGTGIpDsc5kIBx9GBtbRPs-g
+source-id: 1r2wIp21qKJZbv373gQEmJAvPcpgI4WgBEWICBa0nsxg
 published: true
 ---
 <table>
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Media lesson blog</td>
     <td></td>
-    <td>29/04/17</td>
+    <td>12/05/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A good understanding of social media dangers.</td>
+    <td>Dangers of social media</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To understand advantages and disadvantages of social media</td>
+    <td>To understand how it can change people's live.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,20 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>  I contributed to group discussions.</td>
+    <td>Listen to other people's opinions.
+ </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Another group messed up our order so we had to keep restarting.
+    <td>Think about the matter more clearly and carefully so i don’t go blank in one of the tasks.
 </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I could try and contribute to class discussions.</td>
+    <td>Next time  will think about answers and matters more clearly and carefully.</td>
   </tr>
 </table>
 
